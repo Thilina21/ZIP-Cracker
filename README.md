@@ -1,2 +1,2 @@
 # ZIP-Cracker
-ZIP file password cracker by imalsha nethmina
+ZIP file password cracker by Thilina Dilshan
