@@ -1,5 +1,5 @@
 # The Zip Password Cracker..
-# Code By Imalsha Nethmina..
+# Code By Thilina Dilshan..
 
 try:
 	import zipfile
@@ -27,7 +27,7 @@ def banner():
 	print (" # "+Color.BLUE+"ZIP Password Cracker"+Color.YELLOW+" #")
 	print (" ##"+Color.RED+"|                  |"+Color.YELLOW+"##")
 	print (" ##"+Color.RED+"| ("+Color.BLUE+"made by,      "+Color.RED+") |"+Color.YELLOW+"##")
-	print (" ##"+Color.RED+"| ("+Color.BLUE+"     Imalsha  "+Color.RED+") |"+Color.YELLOW+"##")
+	print (" ##"+Color.RED+"| ("+Color.BLUE+"     Thilina  "+Color.RED+") |"+Color.YELLOW+"##")
 	print (" ##"+Color.RED+"|___            ___|"+Color.YELLOW+"##")
 	print (" ######"+Color.RED+"\**********/"+Color.YELLOW+"######")
 	print (" ########################\n"+Color.RESET)
